@@ -1,7 +1,7 @@
 Hey there, I'm Sai Lahari Seethamraju! 👋 <br/> <br/>
 👨🏻‍💻 About Me <br/>
  * 🤔   Exploring new technologies and developing software solutions. <br/>
- * 💼   Research Assistant @SJSU and experienced Software Engineer @OvalEdge,Khumbu Systems. <br/>
+ * 💼   TA @SJSU and experienced Software Engineer @OvalEdge,Khumbu Systems. <br/>
  * 🎓   MSSE SJSU graduate <br/>
  *🌱   Learning more about Full-stack development Cloud Architecture, and Systems Design. <br/>
  * 👯   I enjoy playing board games, working out, and cooking. <br/> <br/>
