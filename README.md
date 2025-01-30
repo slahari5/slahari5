@@ -1,4 +1,4 @@
-Hey there, I'm Sai Lahari Seethamraju! 👋 <br/> <br/>
+Hey there, I'm Sai Lahari! 👋 <br/> <br/>
 
 Developed, deployed scalable and robust applications using AWS, Spring Boot, MongoDB and have a diverse skill set encompassing programming languages like Java and Python along with web technologies.
 
